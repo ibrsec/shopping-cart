@@ -2,6 +2,7 @@
 const TAX_RATE = 0.18;
 
 const products = document.querySelector(".products");
+const totalItems = document.querySelector(".selected-price h6");
 
 products.addEventListener("click", (e) => {
   // console.log(e.target);
@@ -28,6 +29,7 @@ products.addEventListener("click", (e) => {
         products.textContent = "No Product"
     }
 
+    totalItems.textContent = "ITEMS " + document.querySelectorAll(".product").length
 
   }
 });
