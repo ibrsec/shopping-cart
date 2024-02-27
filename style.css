@@ -254,7 +254,7 @@ body {
       .shopping-wrapper {
         flex: 5;
         margin: 2rem 0 2rem 1rem;
-        padding-right: 3rem;
+        padding-right: 2rem;
         width: 100%;
 
       }
@@ -366,12 +366,3 @@ body {
 }
 
 
-
-.product{
-  border: 1px solid;
-}
-
-.product-specs{
-  border: 1px solid;
-
-}
