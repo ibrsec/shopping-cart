@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/shopping-cart"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/shopping-cart/">View Demo</a>
+    <a href="https://shopping-cart-psi-three-77.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/shopping-cart/issues">Report Bug</a>
     ·
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![shopping-cart](./img/project.gif)](https://ibrsec.github.io/shopping-cart/)
+[![shopping-cart](./img/project.gif)](https://shopping-cart-psi-three-77.vercel.app/)
 
 
 
